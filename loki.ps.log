@@ -1,0 +1,1060 @@
+|j|☆Loki
+|j|☆[Azn] husk
+|player|p1|Loki|lucy-gen3
+|player|p2|[Azn] husk|noland-gen3
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|3
+|tier|[Gen 3] OU
+|rule|Sleep Clause: Sleep Clause
+|rule|Freeze Clause: Freeze Clause
+|rule|Self-KO Clause: Self-KO Clause
+|rule|Apply PP Ups: Apply PP Ups
+|rule|Battle Timeout: Battle Timeout
+|rule|Unrated: Unrated
+|
+|start
+|j| Sexyman
+|switch|p2a: Swampert|Swampert, M|100\/100
+|switch|p1a: Marcus Garvey|Gengar, M|261\/261
+|c|☆Loki|gl
+|turn|1
+|
+|switch|p2a: Regice|Regice|100\/100
+|move|p1a: Marcus Garvey|Hypnosis|p2a: Regice
+|-miss|p1a: Marcus Garvey|p2a: Regice
+|c|☆[Azn] husk|same to you
+|j| [Azn] shiv
+|
+|upkeep
+|turn|2
+|
+|move|p1a: Marcus Garvey|Hypnosis|p2a: Regice
+|-miss|p1a: Marcus Garvey|p2a: Regice
+|move|p2a: Regice|Ice Beam|p1a: Marcus Garvey
+|-damage|p1a: Marcus Garvey|112\/261
+|-heal|p1a: Marcus Garvey|128\/261|[from] item: Leftovers
+|j| [Azn] goofball
+|
+|upkeep
+|turn|3
+|
+|switch|p2a: Skarmory|Skarmory, M|100\/100
+|switch|p1a: Michael Moore|Swampert, M|404\/404
+|c| [Azn] shiv|husk!
+|
+|upkeep
+|turn|4
+|
+|switch|p1a: MIKE JONES|Tyranitar, M|342\/342
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: MIKE JONES
+|move|p2a: Skarmory|Spikes|p1a: MIKE JONES
+|-sidestart|p1: Loki|Spikes
+|-weather|Sandstorm|[upkeep]
+|j| Exploding Bears
+|j| Aeolus
+|
+|upkeep
+|turn|5
+|
+|switch|p2a: Swampert|Swampert, M|100\/100
+|switch|p1a: Dasani|Milotic, M|394\/394
+|-damage|p1a: Dasani|345\/394|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dasani|320\/394|[from] Sandstorm
+|-heal|p1a: Dasani|345\/394|[from] item: Leftovers
+|
+|upkeep
+|turn|6
+|
+|switch|p2a: Celebi|Celebi|100\/100
+|move|p1a: Dasani|Light Screen|p1a: Dasani
+|-sidestart|p1: Loki|move: Light Screen
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|94\/100|[from] Sandstorm
+|-damage|p1a: Dasani|320\/394|[from] Sandstorm
+|-heal|p2a: Celebi|100\/100|[from] item: Leftovers
+|-heal|p1a: Dasani|345\/394|[from] item: Leftovers
+|j| [Azn] groudon80
+|
+|upkeep
+|turn|7
+|
+|switch|p1a: Harry Truman|Skarmory, M|334\/334
+|move|p2a: Celebi|Calm Mind|p2a: Celebi
+|-boost|p2a: Celebi|spa|1
+|-boost|p2a: Celebi|spd|1
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|94\/100|[from] Sandstorm
+|-heal|p2a: Celebi|100\/100|[from] item: Leftovers
+|j| Anyone
+|
+|upkeep
+|turn|8
+|
+|move|p2a: Celebi|Baton Pass|p2a: Celebi
+|switch|p2a: Regice|Regice|100\/100|[from] move: Baton Pass
+|move|p1a: Harry Truman|Roar|p2a: Regice
+|drag|p2a: Swampert|Swampert, M|100\/100
+|-weather|Sandstorm|[upkeep]
+|j| p3n3s I Evil_Goku
+|
+|upkeep
+|turn|9
+|
+|switch|p2a: Zapdos|Zapdos|100\/100
+|move|p1a: Harry Truman|Spikes|p2a: Zapdos
+|-sidestart|p2: [Azn] husk|Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94\/100|[from] Sandstorm
+|-heal|p2a: Zapdos|100\/100|[from] item: Leftovers
+|
+|upkeep
+|turn|10
+|
+|switch|p1a: Sierra Mist|Flygon, M|327\/327
+|move|p2a: Zapdos|Thunderbolt|p1a: Sierra Mist
+|-immune|p1a: Sierra Mist
+|-sideend|p1: Loki|Light Screen
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94\/100|[from] Sandstorm
+|-heal|p2a: Zapdos|100\/100|[from] item: Leftovers
+|
+|upkeep
+|turn|11
+|
+|switch|p2a: Swampert|Swampert, M|100\/100
+|-damage|p2a: Swampert|88\/100|[from] Spikes
+|move|p1a: Sierra Mist|Rock Slide|p2a: Swampert
+|-damage|p2a: Swampert|79\/100
+|-resisted|p2a: Swampert
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Swampert|85\/100|[from] item: Leftovers
+|
+|upkeep
+|turn|12
+|
+|switch|p2a: Celebi|Celebi|100\/100
+|-damage|p2a: Celebi|88\/100|[from] Spikes
+|switch|p1a: Dasani|Milotic, M|345\/394
+|-damage|p1a: Dasani|296\/394|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|82\/100|[from] Sandstorm
+|-damage|p1a: Dasani|271\/394|[from] Sandstorm
+|-heal|p2a: Celebi|88\/100|[from] item: Leftovers
+|-heal|p1a: Dasani|296\/394|[from] item: Leftovers
+|
+|upkeep
+|turn|13
+|
+|move|p2a: Celebi|Calm Mind|p2a: Celebi
+|-boost|p2a: Celebi|spa|1
+|-boost|p2a: Celebi|spd|1
+|move|p1a: Dasani|Light Screen|p1a: Dasani
+|-sidestart|p1: Loki|move: Light Screen
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|82\/100|[from] Sandstorm
+|-damage|p1a: Dasani|271\/394|[from] Sandstorm
+|-heal|p2a: Celebi|88\/100|[from]item: Leftovers
+|-heal|p1a: Dasani|296\/394|[from]item: Leftovers
+|
+|upkeep
+|turn|14
+|
+|switch|p1a: Harry Truman|Skarmory, M|334\/334
+|move|p2a: Celebi|Baton Pass|p2a: Celebi
+|switch|p2a: Zapdos|Zapdos|100\/100|[from]move: Baton Pass
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94\/100|[from] Sandstorm
+|-heal|p2a: Zapdos|100\/100|[from]item: Leftovers
+|j| Bangladesh
+|
+|upkeep
+|turn|15
+|
+|switch|p1a: Sierra Mist|Flygon, M|327\/327
+|move|p2a: Zapdos|Thunderbolt|p1a: Sierra Mist
+|-immune|p1a: Sierra Mist
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94\/100|[from] Sandstorm
+|-heal|p2a: Zapdos|100\/100|[from]item: Leftovers
+|
+|upkeep
+|turn|16
+|
+|move|p2a: Zapdos|Hidden Power|p1a: Sierra Mist
+|-damage|p1a: Sierra Mist|0 fnt
+|-crit|p1a: Sierra Mist
+|-supereffective|p1a: Sierra Mist
+|faint|p1a: Sierra Mist
+|c| Bangladesh|oof
+|j| Roy
+|c| [Azn] shiv|ouch
+|c| p3n3s I Evil_Goku|CH...
+|c| Aeolus|well played
+|switch|p1a: Marcus Garvey|Gengar, M|128\/261
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Marcus Garvey|112\/261|[from] Sandstorm
+|-damage|p2a: Zapdos|94\/100|[from] Sandstorm
+|-heal|p1a: Marcus Garvey|128\/261|[from]item: Leftovers
+|-heal|p2a: Zapdos|100\/100|[from]item: Leftovers
+|c|☆[Azn] husk|miss!
+|
+|upkeep
+|turn|17
+|
+|move|p1a: Marcus Garvey|Explosion|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|faint|p1a: Marcus Garvey
+|c|☆[Azn] husk|oh heh
+|c| Sexyman|good
+|c|☆Loki|i hope not
+|c|☆Loki|lol
+|c| [Azn] groudon80|husky =[
+|c| Aeolus|also well played
+|c|☆[Azn] husk|yeah
+|c|☆[Azn] husk|I was thinking about it...
+|switch|p2a: Swampert|Swampert, M|85\/100
+|-damage|p2a: Swampert|73\/100|[from] Spikes
+|switch|p1a: Michael Moore|Swampert, M|404\/404
+|-damage|p1a: Michael Moore|354\/404|[from] Spikes
+|-sideend|p1: Loki|Light Screen
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Michael Moore|379\/404|[from]item: Leftovers
+|-heal|p2a: Swampert|79\/100|[from]item: Leftovers
+|c| Aeolus|lol, you were fixated on hypnosis
+|
+|upkeep
+|turn|18
+|
+|move|p2a: Swampert|Surf|p1a: Michael Moore
+|-damage|p1a: Michael Moore|268\/404
+|move|p1a: Michael Moore|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|49\/100
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Michael Moore|293\/404|[from]item: Leftovers
+|-heal|p2a: Swampert|55\/100|[from]item: Leftovers
+|c|☆[Azn] husk|I was sure he would try to get that hypnosis in before he would boom
+|
+|upkeep
+|turn|19
+|
+|move|p2a: Swampert|Earthquake|p1a: Michael Moore
+|-damage|p1a: Michael Moore|173\/404
+|move|p1a: Michael Moore|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|28\/100
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Michael Moore|198\/404|[from]item: Leftovers
+|-heal|p2a: Swampert|34\/100|[from]item: Leftovers
+|
+|upkeep
+|turn|20
+|
+|move|p1a: Michael Moore|Rest|p1a: Michael Moore
+|-status|p1a: Michael Moore|slp|[from] move: Rest
+|-heal|p1a: Michael Moore|404\/404 slp|[silent]
+|move|p2a: Swampert|Surf|p1a: Michael Moore
+|-damage|p1a: Michael Moore|295\/404 slp
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Swampert|40\/100|[from]item: Leftovers
+|-heal|p1a: Michael Moore|320\/404 slp|[from]item: Leftovers
+|
+|upkeep
+|turn|21
+|
+|switch|p2a: Celebi|Celebi|88\/100
+|-damage|p2a: Celebi|75\/100|[from] Spikes
+|switch|p1a: Dasani|Milotic, M|296\/394
+|-damage|p1a: Dasani|247\/394|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|69\/100|[from] Sandstorm
+|-damage|p1a: Dasani|223\/394|[from] Sandstorm
+|-heal|p2a: Celebi|75\/100|[from]item: Leftovers
+|-heal|p1a: Dasani|247\/394|[from]item: Leftovers
+|
+|upkeep
+|turn|22
+|
+|move|p2a: Celebi|Psychic|p1a: Dasani
+|-damage|p1a: Dasani|158\/394
+|move|p1a: Dasani|Light Screen|p1a: Dasani
+|-sidestart|p1: Loki|move: Light Screen
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|69\/100|[from] Sandstorm
+|-damage|p1a: Dasani|133\/394|[from] Sandstorm
+|-heal|p2a: Celebi|75\/100|[from]item: Leftovers
+|-heal|p1a: Dasani|158\/394|[from]item: Leftovers
+|
+|upkeep
+|turn|23
+|
+|move|p2a: Celebi|Calm Mind|p2a: Celebi
+|-boost|p2a: Celebi|spa|1
+|-boost|p2a: Celebi|spd|1
+|move|p1a: Dasani|Recover|p1a: Dasani
+|-heal|p1a: Dasani|355\/394
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|69\/100|[from] Sandstorm
+|-damage|p1a: Dasani|330\/394|[from] Sandstorm
+|-heal|p2a: Celebi|75\/100|[from]item: Leftovers
+|-heal|p1a: Dasani|355\/394|[from]item: Leftovers
+|
+|upkeep
+|turn|24
+|
+|switch|p1a: Harry Truman|Skarmory, M|334\/334
+|move|p2a: Celebi|Baton Pass|p2a: Celebi
+|switch|p2a: Regice|Regice|100\/100|[from] move: Baton Pass
+|-damage|p2a: Regice|87\/100|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regice|81\/100|[from] Sandstorm
+|-heal|p2a: Regice|87\/100|[from]item: Leftovers
+|
+|upkeep
+|turn|25
+|
+|move|p2a: Regice|Thunderbolt|p1a: Harry Truman
+|-damage|p1a: Harry Truman|183\/334
+|-supereffective|p1a: Harry Truman
+|move|p1a: Harry Truman|Roar|p2a: Regice
+|drag|p2a: Dugtrio|Dugtrio, M|100\/100
+|-damage|p2a: Dugtrio|88\/100|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Harry Truman|203\/334|[from]item: Leftovers
+|c|☆[Azn] husk|oh wow
+|
+|upkeep
+|turn|26
+|
+|switch|p2a: Regice|Regice|87\/100
+|-damage|p2a: Regice|75\/100|[from] Spikes
+|move|p1a: Harry Truman|Spikes|p2a: Regice
+|-sidestart|p2: [Azn] husk|Spikes
+|-sideend|p1: Loki|Light Screen
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regice|69\/100|[from] Sandstorm
+|-heal|p1a: Harry Truman|223\/334|[from]item: Leftovers
+|-heal|p2a: Regice|75\/100|[from]item: Leftovers
+|
+|upkeep
+|turn|27
+|
+|switch|p1a: Michael Moore|Swampert, M|320\/404 slp
+|-damage|p1a: Michael Moore|270\/404 slp|[from] Spikes
+|move|p2a: Regice|Ice Beam|p1a: Michael Moore
+|-damage|p1a: Michael Moore|157\/404 slp
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regice|69\/100|[from] Sandstorm
+|-heal|p2a: Regice|75\/100|[from]item: Leftovers
+|-heal|p1a: Michael Moore|182\/404 slp|[from]item: Leftovers
+|
+|upkeep
+|turn|28
+|
+|switch|p1a: Dasani|Milotic, M|355\/394
+|-damage|p1a: Dasani|306\/394|[from] Spikes
+|move|p2a: Regice|Ice Beam|p1a: Dasani
+|-damage|p1a: Dasani|256\/394
+|-resisted|p1a: Dasani
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dasani|231\/394|[from] Sandstorm
+|-damage|p2a: Regice|69\/100|[from] Sandstorm
+|-heal|p1a: Dasani|256\/394|[from]item: Leftovers
+|-heal|p2a: Regice|75\/100|[from]item: Leftovers
+|
+|upkeep
+|turn|29
+|
+|move|p1a: Dasani|Light Screen|p1a: Dasani
+|-sidestart|p1: Loki|move: Light Screen
+|move|p2a: Regice|Thunderbolt|p1a: Dasani
+|-damage|p1a: Dasani|191\/394
+|-supereffective|p1a: Dasani
+|-status|p1a: Dasani|par
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regice|69\/100|[from] Sandstorm
+|-damage|p1a: Dasani|166\/394 par|[from] Sandstorm
+|-heal|p2a: Regice|75\/100|[from]item: Leftovers
+|-heal|p1a: Dasani|191\/394 par|[from]item: Leftovers
+|c|☆[Azn] husk|oh fuck
+|j| HK
+|
+|upkeep
+|turn|30
+|
+|switch|p2a: Celebi|Celebi|75\/100
+|-damage|p2a: Celebi|56\/100|[from] Spikes
+|move|p1a: Dasani|Recover|p1a: Dasani
+|-heal|p1a: Dasani|388\/394 par
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|50\/100|[from] Sandstorm
+|-damage|p1a: Dasani|363\/394 par|[from] Sandstorm
+|-heal|p2a: Celebi|56\/100|[from]item: Leftovers
+|-heal|p1a: Dasani|388\/394 par|[from]item: Leftovers
+|
+|upkeep
+|turn|31
+|
+|switch|p1a: Harry Truman|Skarmory, M|223\/334
+|move|p2a: Celebi|Baton Pass|p2a: Celebi
+|switch|p2a: Regice|Regice|75\/100|[from]move: Baton Pass
+|-damage|p2a: Regice|56\/100|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regice|50\/100|[from] Sandstorm
+|-heal|p1a: Harry Truman|243\/334|[from]item: Leftovers
+|-heal|p2a: Regice|56\/100|[from]item: Leftovers
+|
+|upkeep
+|turn|32
+|
+|switch|p1a: Michael Moore|Swampert, M|182\/404 slp
+|-damage|p1a: Michael Moore|132\/404 slp|[from] Spikes
+|move|p2a: Regice|Thunderbolt|p1a: Michael Moore
+|-immune|p1a: Michael Moore
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regice|50\/100|[from] Sandstorm
+|-heal|p2a: Regice|56\/100|[from]item: Leftovers
+|-heal|p1a: Michael Moore|157\/404 slp|[from]item: Leftovers
+|
+|upkeep
+|turn|33
+|
+|switch|p2a: Skarmory|Skarmory, M|100\/100
+|cant|p1a: Michael Moore|slp
+|move|p1a: Michael Moore|Sleep Talk|p1a: Michael Moore
+|move|p1a: Michael Moore|Earthquake|p2a: Skarmory|[from]Sleep Talk
+|-immune|p2a: Skarmory
+|-sideend|p1: Loki|Light Screen
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Michael Moore|182\/404 slp|[from]item: Leftovers
+|
+|upkeep
+|turn|34
+|
+|switch|p1a: MIKE JONES|Tyranitar, M|342\/342
+|-damage|p1a: MIKE JONES|299\/342|[from] Spikes
+|move|p2a: Skarmory|Spikes|p1a: MIKE JONES
+|-sidestart|p1: Loki|Spikes
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: MIKE JONES|342\/342|[from]item: Leftovers
+|c| Bangladesh|mike jones
+|
+|upkeep
+|turn|35
+|
+|move|p1a: MIKE JONES|Earthquake|p2a: Skarmory
+|-immune|p2a: Skarmory
+|move|p2a: Skarmory|Whirlwind|p1a: MIKE JONES
+|drag|p1a: Michael Moore|Swampert, M|182\/404 slp
+|-damage|p1a: Michael Moore|106\/404 slp|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Michael Moore|131\/404 slp|[from]item: Leftovers
+|c|☆Loki|MIKE JONES
+|c| Bangladesh|who?
+|c|☆Loki|MIKE JONES
+|
+|upkeep
+|turn|36
+|
+|cant|p1a: Michael Moore|slp
+|move|p1a: Michael Moore|Sleep Talk|p1a: Michael Moore
+|move|p1a: Michael Moore|Ice Beam|p2a: Skarmory|[from]Sleep Talk
+|-damage|p2a: Skarmory|57\/100
+|-crit|p2a: Skarmory
+|move|p2a: Skarmory|Whirlwind|p1a: Michael Moore
+|drag|p1a: Harry Truman|Skarmory, M|243\/334
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Harry Truman|263\/334|[from]item: Leftovers
+|-heal|p2a: Skarmory|63\/100|[from]item: Leftovers
+|c| Aeolus|harry truman is the best
+|j| Judgement
+|c|☆Loki|the buck stops here
+|
+|upkeep
+|turn|37
+|
+|switch|p2a: Regice|Regice|56\/100
+|-damage|p2a: Regice|37\/100|[from] Spikes
+|move|p1a: Harry Truman|Spikes|p2a: Regice
+|-sidestart|p2: [Azn] husk|Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regice|31\/100|[from] Sandstorm
+|-heal|p1a: Harry Truman|283\/334|[from]item: Leftovers
+|-heal|p2a: Regice|37\/100|[from]item: Leftovers
+|c| Aeolus|that's right
+|c| Aeolus|haha
+|c| Bangladesh|is that the dude from the truman show
+|j| Cutetrainer Chris
+|c| Aeolus|lol
+|c| Judgement|no shiv
+|
+|upkeep
+|turn|38
+|
+|move|p2a: Regice|Ice Beam|p1a: Harry Truman
+|-damage|p1a: Harry Truman|111\/334
+|move|p1a: Harry Truman|Roar|p2a: Regice
+|drag|p2a: Celebi|Celebi|56\/100
+|-damage|p2a: Celebi|31\/100|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|25\/100|[from] Sandstorm
+|-heal|p2a: Celebi|31\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|131\/334|[from]item: Leftovers
+|c| Aeolus|I hope you aren't serious
+|c|☆Loki|lol
+|
+|upkeep
+|turn|39
+|
+|move|p2a: Celebi|Recover|p1a: Harry Truman
+|-heal|p2a: Celebi|81\/100
+|move|p1a: Harry Truman|Drill Peck|p2a: Celebi
+|-damage|p2a: Celebi|49\/100
+|-supereffective|p2a: Celebi
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|43\/100|[from] Sandstorm
+|-heal|p2a: Celebi|49\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|151\/334|[from]item: Leftovers
+|c| Bangladesh|...i'm not.
+|c| Judgement|good
+|c| Bangladesh|also where's shiv
+|c|☆[Azn] husk|ok one sec
+|
+|upkeep
+|turn|40
+|
+|move|p2a: Celebi|Psychic|p1a: Harry Truman
+|-damage|p1a: Harry Truman|77\/334
+|-resisted|p1a: Harry Truman
+|move|p1a: Harry Truman|Roar|p2a: Celebi
+|drag|p2a: Regice|Regice|37\/100
+|-damage|p2a: Regice|12\/100|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regice|6\/100|[from] Sandstorm
+|-heal|p2a: Regice|12\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|97\/334|[from]item: Leftovers
+|c| Judgement|eh?
+|
+|upkeep
+|turn|41
+|
+|move|p1a: Harry Truman|Drill Peck|p2a: Regice
+|-damage|p2a: Regice|0 fnt
+|faint|p2a: Regice
+|c|☆[Azn] husk|oh shit
+|c| Bangladesh|i'm not shiv
+|c| [Azn] goofball|what
+|c| Aeolus|well played loki
+|switch|p2a: Swampert|Swampert, M|40\/100
+|-damage|p2a: Swampert|15\/100|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Harry Truman|117\/334|[from]item: Leftovers
+|-heal|p2a: Swampert|21\/100|[from]item: Leftovers
+|c| [Azn] groudon80|husky
+|c| [Azn] groudon80|=[
+|
+|upkeep
+|turn|42
+|
+|switch|p1a: Dasani|Milotic, M|388\/394 par
+|-damage|p1a: Dasani|314\/394 par|[from] Spikes
+|move|p2a: Swampert|Surf|p1a: Dasani
+|-damage|p1a: Dasani|251\/394 par
+|-resisted|p1a: Dasani
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dasani|202\/394 par|[from] Sandstorm
+|-heal|p2a: Swampert|28\/100|[from]item: Leftovers
+|-heal|p1a: Dasani|251\/394 par|[from]item: Leftovers
+|c|☆[Azn] husk|that para'ed miltoic
+|c|☆[Azn] husk|milotic
+|c|☆[Azn] husk|=[
+|c| Judgement|cmon huks you can do it!
+|c|☆[Azn] husk|ok I have to do something
+|c|☆[Azn] husk|hold up
+|c|☆Loki|k
+|c| [Azn] groudon80|that's what screwed me lol
+|c| Aeolus|I dont think the para is of any consequence to be honest
+|c| Cutetrainer Chris|my battte
+|c| [Azn] goofball|he might have toxic
+|c|☆Loki|who
+|c| HK|Chris is easy
+|c| Bangladesh: chris: fuck you
+|c| Aeolus|bigchris
+|c| Cutetrainer Chris|;=(
+|c| Bangladesh|big aelous
+|c| Bangladesh|aeolus
+|c| Aeolus|i'm big
+|c| Bangladesh|me too
+|c| Aeolus|...if you know what I mean
+|c| Bangladesh|chris likes nigerian cock
+|c| Cutetrainer Chris|i like lots of batttes
+|c| Bangladesh|batty boy
+|c| Bangladesh|HEY FATTY BOM BOM
+|c| Aeolus|did you guys know that chris rarely beats me in cc combat?
+|c| Aeolus|it is almost embarrassing
+|c| Cutetrainer Chris|lol you have like never beaten me in cc
+|
+|upkeep
+|turn|43
+|
+|move|p2a: Swampert|Earthquake|p1a: Dasani
+|-damage|p1a: Dasani|173\/394 par
+|cant|p1a: Dasani|par
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dasani|148\/394 par|[from] Sandstorm
+|-heal|p2a: Swampert|34\/100|[from]item: Leftovers
+|-heal|p1a: Dasani|173\/394 par|[from]item: Leftovers
+|c| Aeolus|I know
+|c| Aeolus|lol
+|c| HK|i am the best in cc anyways
+|
+|upkeep
+|turn|44
+|
+|switch|p2a: Celebi|Celebi|49\/100
+|-damage|p2a: Celebi|24\/100|[from] Spikes
+|move|p1a: Dasani|Recover|p1a: Dasani
+|-heal|p1a: Dasani|370\/394 par
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|18\/100|[from] Sandstorm
+|-damage|p1a: Dasani|345\/394 par|[from] Sandstorm
+|-heal|p2a: Celebi|24\/100|[from]item: Leftovers
+|-heal|p1a: Dasani|370\/394 par|[from]item: Leftovers
+|
+|upkeep
+|turn|45
+|
+|move|p2a: Celebi|Recover|p2a: Celebi
+|-heal|p2a: Celebi|74\/100
+|move|p1a: Dasani|Light Screen|p1a: Dasani
+|-sidestart|p1: Loki|move: Light Screen
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|68\/100|[from] Sandstorm
+|-damage|p1a: Dasani|345\/394 par|[from] Sandstorm
+|-heal|p2a: Celebi|74\/100|[from]item: Leftovers
+|-heal|p1a: Dasani|370\/394 par|[from]item: Leftovers
+|
+|upkeep
+|turn|46
+|
+|switch|p1a: Harry Truman|Skarmory, M|117\/334
+|move|p2a: Celebi|Calm Mind|p2a: Celebi
+|-boost|p2a: Celebi|spa|1
+|-boost|p2a: Celebi|spd|1
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|68\/100|[from] Sandstorm
+|-heal|p2a: Celebi|74\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|137\/334|[from]item: Leftovers
+|c| Bangladesh|its always very close between me and christopher
+|
+|upkeep
+|turn|47
+|
+|move|p2a: Celebi|Psychic|p1a: Harry Truman
+|-damage|p1a: Harry Truman|87\/334
+|-resisted|p1a: Harry Truman
+|move|p1a: Harry Truman|Roar|p2a: Celebi
+|drag|p2a: Skarmory|Skarmory, M|63\/100
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Skarmory|69\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|107\/334|[from]item: Leftovers
+|c| Bangladesh|but i usually take the win
+|c| HK|ask cloud and chris
+|
+|upkeep
+|turn|48
+|
+|move|p2a: Skarmory|Spikes|p1a: Harry Truman
+|-sidestart|p1: Loki|Spikes
+|move|p1a: Harry Truman|Roar|p2a: Skarmory
+|drag|p2a: Celebi|Celebi|74\/100
+|-damage|p2a: Celebi|49\/100|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|43\/100|[from] Sandstorm
+|-heal|p2a: Celebi|49\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|127\/334|[from]item: Leftovers
+|
+|upkeep
+|turn|49
+|
+|move|p2a: Celebi|Recover|p2a: Celebi
+|-heal|p2a: Celebi|99\/100
+|move|p1a: Harry Truman|Roar|p2a: Celebi
+|drag|p2a: Swampert|Swampert, M|34\/100
+|-damage|p2a: Swampert|9\/100|[from] Spikes
+|-sideend|p1: Loki|Light Screen
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Swampert|15\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|147\/334|[from]item: Leftovers
+|
+|upkeep
+|turn|50
+|
+|move|p1a: Harry Truman|Drill Peck|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|-crit|p2a: Swampert
+|faint|p2a: Swampert
+|switch|p2a: Celebi|Celebi|99\/100
+|-damage|p2a: Celebi|73\/100|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|67\/100|[from] Sandstorm
+|-heal|p2a: Celebi|73\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|167\/334|[from]item: Leftovers
+|
+|upkeep
+|turn|51
+|
+|move|p2a: Celebi|Psychic|p1a: Harry Truman
+|-damage|p1a: Harry Truman|98\/334
+|-resisted|p1a: Harry Truman
+|move|p1a: Harry Truman|Drill Peck|p2a: Celebi
+|-damage|p2a: Celebi|37\/100
+|-supereffective|p2a: Celebi
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|31\/100|[from] Sandstorm
+|-heal|p2a: Celebi|37\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|118\/334|[from]item: Leftovers
+|
+|upkeep
+|turn|52
+|
+|move|p2a: Celebi|Recover|p1a: Harry Truman
+|-heal|p2a: Celebi|87\/100
+|move|p1a: Harry Truman|Drill Peck|p2a: Celebi
+|-damage|p2a: Celebi|54\/100
+|-supereffective|p2a: Celebi
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|48\/100|[from] Sandstorm
+|-heal|p2a: Celebi|54\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|138\/334|[from]item: Leftovers
+|c| [Azn] goofball|seed
+|c| [Azn] goofball|go
+|c| Roy|stop
+|
+|upkeep
+|turn|53
+|
+|move|p2a: Celebi|Psychic|p1a: Harry Truman
+|-damage|p1a: Harry Truman|63\/334
+|-resisted|p1a: Harry Truman
+|move|p1a: Harry Truman|Drill Peck|p2a: Celebi
+|-damage|p2a: Celebi|20\/100
+|-supereffective|p2a: Celebi
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|14\/100|[from] Sandstorm
+|-heal|p2a: Celebi|20\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|83\/334|[from]item: Leftovers
+|c| Aeolus|its cm bp
+|
+|upkeep
+|turn|54
+|
+|move|p2a: Celebi|Recover|p1a: Harry Truman
+|-heal|p2a: Celebi|70\/100
+|move|p1a: Harry Truman|Rest|p1a: Harry Truman
+|-status|p1a: Harry Truman|slp|[from] move: Rest
+|-heal|p1a: Harry Truman|334\/334 slp|[silent]
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|64\/100|[from] Sandstorm
+|-heal|p2a: Celebi|70\/100|[from]item: Leftovers
+|c| Bangladesh|use DRILL PECK
+|
+|upkeep
+|turn|55
+|
+|move|p2a: Celebi|Calm Mind|p1a: Harry Truman
+|-boost|p2a: Celebi|spa|1
+|-boost|p2a: Celebi|spd|1
+|cant|p1a: Harry Truman|slp
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|64\/100|[from] Sandstorm
+|-heal|p2a: Celebi|70\/100|[from]item: Leftovers
+|c| Roy|lol
+|
+|upkeep
+|turn|56
+|
+|move|p2a: Celebi|Psychic|p1a: Harry Truman
+|-damage|p1a: Harry Truman|229\/334 slp
+|-resisted|p1a: Harry Truman
+|cant|p1a: Harry Truman|slp
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|64\/100|[from] Sandstorm
+|-heal|p2a: Celebi|70\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|249\/334 slp|[from]item: Leftovers
+|
+|upkeep
+|turn|57
+|
+|move|p2a: Celebi|Psychic|p1a: Harry Truman
+|-damage|p1a: Harry Truman|149\/334 slp
+|-resisted|p1a: Harry Truman
+|-curestatus|p1a: Harry Truman|slp|[msg]
+|move|p1a: Harry Truman|Roar|p2a: Celebi
+|drag|p2a: Skarmory|Skarmory, M|69\/100
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Skarmory|75\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|166\/334|[from]item: Leftovers
+|
+|upkeep
+|turn|58
+|
+|move|p1a: Harry Truman|Roar|p2a: Skarmory
+|drag|p2a: Dugtrio|Dugtrio, M|88\/100
+|-damage|p2a: Dugtrio|63\/100|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Harry Truman|186\/334|[from]item: Leftovers
+|c| Bangladesh|DRILL PECK
+|
+|upkeep
+|turn|59
+|
+|move|p2a: Dugtrio|Rock Slide|p1a: Harry Truman
+|-damage|p1a: Harry Truman|75\/334
+|-crit|p1a: Harry Truman
+|cant|p1a: Harry Truman|flinch
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Harry Truman|95\/334|[from]item: Leftovers
+|c| Roy|oh
+|c| Bangladesh|ok i'll stop.
+|c| Roy|my
+|c|☆[Azn] husk|hehe
+|c|☆Loki|lol
+|c| Aeolus|oh dear
+|c| [Azn] shiv|lol
+|
+|upkeep
+|turn|60
+|
+|move|p2a: Dugtrio|Rock Slide|p1a: Harry Truman
+|-damage|p1a: Harry Truman|33\/334
+|move|p1a: Harry Truman|Rest|p1a: Harry Truman
+|-status|p1a: Harry Truman|slp|[from] move: Rest
+|-heal|p1a: Harry Truman|334\/334 slp|[silent]
+|-weather|Sandstorm|[upkeep]
+|c| Aeolus|that was almost really bitchy
+|
+|upkeep
+|turn|61
+|
+|move|p2a: Dugtrio|Rock Slide|p1a: Harry Truman
+|-damage|p1a: Harry Truman|267\/334 slp
+|cant|p1a: Harry Truman|slp
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Harry Truman|287\/334 slp|[from]item: Leftovers
+|
+|upkeep
+|turn|62
+|
+|move|p2a: Dugtrio|Rock Slide|p1a: Harry Truman
+|-damage|p1a: Harry Truman|221\/334 slp
+|cant|p1a: Harry Truman|slp
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Harry Truman|241\/334 slp|[from]item: Leftovers
+|c| Roy|yeah
+|
+|upkeep
+|turn|63
+|
+|move|p2a: Dugtrio|Rock Slide|p1a: Harry Truman
+|-miss|p2a: Dugtrio|p1a: Harry Truman
+|-curestatus|p1a: Harry Truman|slp|[msg]
+|move|p1a: Harry Truman|Drill Peck|p2a: Dugtrio
+|-damage|p2a: Dugtrio|0 fnt
+|faint|p2a: Dugtrio
+|switch|p2a: Celebi|Celebi|70\/100
+|-damage|p2a: Celebi|45\/100|[from] Spikes
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|39\/100|[from] Sandstorm
+|-heal|p2a: Celebi|45\/100|[from]item: Leftovers
+|-heal|p1a: Harry Truman|261\/334|[from]item: Leftovers
+|c| [Azn] groudon80|husk =[[[[[[[
+|c| Bangladesh|DRILL PECK!
+|c| Cutetrainer Chris|shut up lexar
+|
+|upkeep
+|turn|64
+|
+|switch|p1a: MIKE JONES|Tyranitar, M|320\/342
+|-damage|p1a: MIKE JONES|234\/342|[from] Spikes
+|move|p2a: Celebi|Recover|p2a: Celebi
+|-heal|p2a: Celebi|95\/100
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|89\/100|[from] Sandstorm
+|-heal|p2a: Celebi|95\/100|[from]item: Leftovers
+|-heal|p1a: MIKE JONES|255\/342|[from]item: Leftovers
+|c| Aeolus|congrats loki
+|c|☆[Azn] husk|heh I knew I'd lose before I won a t-shirt
+|c|☆Loki|thanks
+|c| Roy|lexar lol
+|c|☆[Azn] husk|gg loki
+|c|☆[Azn] husk|well played
+|c|☆Loki|gg
+|c|☆Loki|thanks
+|c| [Azn] groudon80|loki its all you know
+|
+|upkeep
+|turn|65
+|
+|move|p2a: Celebi|Baton Pass|p2a: Celebi
+|c| [Azn] groudon80|win this tourney
+|switch|p2a: Skarmory|Skarmory, M|75\/100|[from]move: Baton Pass
+|move|p1a: MIKE JONES|Dragon Dance|p1a: MIKE JONES
+|-boost|p1a: MIKE JONES|atk|1
+|-boost|p1a: MIKE JONES|spe|1
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: MIKE JONES|276\/342|[from]item: Leftovers
+|-heal|p2a: Skarmory|81\/100|[from]item: Leftovers
+|c| [Azn] groudon80|now even
+|
+|upkeep
+|turn|66
+|
+|move|p1a: MIKE JONES|Taunt|p2a: Skarmory
+|-start|p2a: Skarmory|move: Taunt
+|cant|p2a: Skarmory|move: Taunt|Whirlwind
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: MIKE JONES|297\/342|[from]item: Leftovers
+|-heal|p2a: Skarmory|87\/100|[from]item: Leftovers
+|c|☆[Azn] husk|yeah
+|
+|upkeep
+|turn|67
+|
+|switch|p2a: Celebi|Celebi|95\/100
+|-damage|p2a: Celebi|70\/100|[from] Spikes
+|move|p1a: MIKE JONES|Rock Slide|p2a: Celebi
+|-miss|p1a: MIKE JONES|p2a: Celebi
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|64\/100|[from] Sandstorm
+|-heal|p1a: MIKE JONES|318\/342|[from]item: Leftovers
+|-heal|p2a: Celebi|70\/100|[from]item: Leftovers
+|c| Judgement|MIKE JONES
+|
+|upkeep
+|turn|68
+|
+|move|p1a: MIKE JONES|Rock Slide|p2a: Celebi
+|-damage|p2a: Celebi|21\/100
+|move|p2a: Celebi|Psychic|p1a: MIKE JONES
+|-immune|p1a: MIKE JONES
+|c|☆Loki|MIKE JONES
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|15\/100|[from] Sandstorm
+|-heal|p1a: MIKE JONES|339\/342|[from]item: Leftovers
+|-heal|p2a: Celebi|21\/100|[from]item: Leftovers
+|
+|upkeep
+|turn|69
+|
+|move|p1a: MIKE JONES|Rock Slide|p2a: Celebi
+|-miss|p1a: MIKE JONES|p2a: Celebi
+|move|p2a: Celebi|Psychic|p1a: MIKE JONES
+|-immune|p1a: MIKE JONES
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|15\/100|[from] Sandstorm
+|-heal|p1a: MIKE JONES|342\/342|[from]item: Leftovers
+|-heal|p2a: Celebi|21\/100|[from]item: Leftovers
+|c| Judgement|MIKE JONES
+|c|☆Loki|SOTP MIKE
+|c| Roy|whos mike jones
+|
+|upkeep
+|turn|70
+|
+|move|p1a: MIKE JONES|Rock Slide|p2a: Celebi
+|-miss|p1a: MIKE JONES|p2a: Celebi
+|move|p2a: Celebi|Psychic|p1a: MIKE JONES
+|-immune|p1a: MIKE JONES
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celebi|15\/100|[from] Sandstorm
+|-heal|p2a: Celebi|21\/100|[from]item: Leftovers
+|c| Roy|?
+|c| Cutetrainer Chris|he could run out of rock slide pp
+|c| Judgement|MIKE JONES
+|c| Cutetrainer Chris|see
+|c| Aeolus|dear god
+|c| Cutetrainer Chris|husk has a chance
+|c|☆[Azn] husk|use earthquake lol
+|c| Roy|lol
+|c| Cutetrainer Chris|loki is gonna run out of slide
+|
+|upkeep
+|turn|71
+|
+|move|p1a: MIKE JONES|Earthquake|p2a: Celebi
+|-damage|p2a: Celebi|0 fnt
+|-resisted|p2a: Celebi
+|faint|p2a: Celebi
+|switch|p2a: Skarmory|Skarmory, M|87\/100
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Skarmory|93\/100|[from]item: Leftovers
+|c| Judgement|k
+|c| Aeolus|lol
+|
+|upkeep
+|turn|72
+|
+|move|p1a: MIKE JONES|Rock Slide|p2a: Skarmory
+|-miss|p1a: MIKE JONES|p2a: Skarmory
+|move|p2a: Skarmory|Spikes|p1a: MIKE JONES
+|-fail|p2a: Skarmory|Spikes
+|c|☆Loki|lasflasdf
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Skarmory|99\/100|[from]item: Leftovers
+|c| Roy|lol
+|c| Roy|ok
+|c| Cutetrainer Chris|told you
+|
+|upkeep
+|turn|73
+|
+|move|p1a: MIKE JONES|Rock Slide|p2a: Skarmory
+|-damage|p2a: Skarmory|51\/100
+|move|p2a: Skarmory|Spikes|p1a: MIKE JONES
+|-fail|p2a: Skarmory|Spikes
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Skarmory|57\/100|[from]item: Leftovers
+|c| Aeolus|dear jesus
+|c| Judgement|mike jones lol
+|c| Cutetrainer Chris|im betting on husk
+|c|☆[Azn] husk|I could
+|c| Judgement|huks will win
+|
+|upkeep
+|turn|74
+|
+|move|p1a: MIKE JONES|Rock Slide|p2a: Skarmory
+|-damage|p2a: Skarmory|9\/100
+|move|p2a: Skarmory|Spikes|p1a: MIKE JONES
+|-fail|p2a: Skarmory|Spikes
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Skarmory|15\/100|[from]item: Leftovers
+|c| Judgement|maybe
+|
+|upkeep
+|turn|75
+|
+|move|p1a: MIKE JONES|Rock Slide|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|c|☆[Azn] husk|gg
+|win|Loki
+|c|☆Loki|gg
+|c| Judgement|MIKE JONES
+|l| Cutetrainer Chris
+|c|☆[Azn] husk|gg
+|l| Roy
+|c| Sexyman|=]
+|l| Judgement
+|l| [Azn] groudon80
+|l| Exploding Bears
+|l| Aeolus
+|l| HK
+|l| [Azn] goofball
+|l| Sexyman
+|l| [Azn] shiv
+|
+|upkeep
